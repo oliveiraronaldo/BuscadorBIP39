@@ -5,16 +5,19 @@ O programa foi desenvolvido para facilitar a busca de palavras e identificar o i
 
 ## Tela Inicial
 
-![image](https://github.com/user-attachments/assets/60c7c572-db44-419c-a324-430a11f8ebcc)
+![image](https://github.com/user-attachments/assets/c8a685de-584b-404f-9b55-1f54a5efa314)
+
 
 
 ## Pesquisa por index
 
-![image](https://github.com/user-attachments/assets/b03a1ef4-2f45-4613-801f-7be2593730df)
+![image](https://github.com/user-attachments/assets/6b5c7c0c-2da9-4b3b-8dcc-f8342ebd6f61)
+
 
 
 
 ## Pesquisa por nome
 
-![image](https://github.com/user-attachments/assets/e044ab2a-d892-4dfb-a347-a0bd6d45297e)
+![image](https://github.com/user-attachments/assets/c60fcbbd-a760-4554-92f8-da30c7d9c0da)
+
 
